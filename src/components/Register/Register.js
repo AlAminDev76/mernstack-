@@ -63,7 +63,6 @@ const Register = () => {
                 reset({ email: '', password: '' });
             });
     }
-
     return (
         <section className='bg-brand bg-brand-container'>
             <Navbar />

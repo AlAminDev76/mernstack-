@@ -30,9 +30,7 @@ const useFirebase = () => {
     const googleProvider = new GoogleAuthProvider();
     const githubProvider = new GithubAuthProvider();
 
-    // -----------------------------------------
-    // GOOGLE LOGIN
-    // -----------------------------------------
+    
     const google = () => {
         signInWithPopup(auth, googleProvider)
             .then(result => {
@@ -44,9 +42,7 @@ const useFirebase = () => {
             });
     };
 
-    // -----------------------------------------
-    // GITHUB LOGIN
-    // -----------------------------------------
+    
     const github = () => {
         signInWithPopup(auth, githubProvider)
             .then(result => {
