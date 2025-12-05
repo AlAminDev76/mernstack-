@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Airpod",
+    "description": "The newly introduced to the AirPods 2 H1 chip allows for a swift switch between the configurable devices, those including iPhone, iPad, iPod Touch, Apple Watch, Apple TV and Mac. Despite the lack of design changes to the 2nd generation of the AirPods, the newer edition of the device lacks the cord, making them entirely wire-free. The 2022 AirPods are offered with a Wireless Charging Case, enabling Qi-based wireless charging.",
+    "price": 16000,
+    "image": "https://i.ibb.co/YBXFVbsb/airpod.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Bag",
+    "description": "The main compartment of a backpack typically has two large compartments, and these are often separated by a thin divider. There are also pockets on the outside of the bag, which can be used for carrying smaller items. Some backpacks also have a separate compartment for storing a laptop.",
+    "price": 4500,
+    "image": "https://i.ibb.co/zVmMJwRm/bag.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Body Spray",
+    "description": "A light and refreshing fragrance, this body spray will be sure to refresh your senses and leave you feeling rejuvenated.",
+    "price": 1500,
+    "image": "https://i.ibb.co/YB6kGRRm/body-spray.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Camera",
+    "description": "Introducing the latest in cutting-edge camera technology, the Dreamy Digital Camera. Built with the latest in high-resolution and high-quality video technology, this camera is the perfect solution for all your photography needs.",
+    "price": 22000,
+    "image": "https://i.ibb.co/2YtWxf4v/camera.jpg"
+  },
+  {
+    "id": "5",
+    "name": "iPhone",
+    "description": "Apple's iPhone is a small device that can be used for a variety of purposes. It has a touchscreen that responds to your touch and is the home to your apps. The iPhone is a great option for those who want a phone that is compact and user-friendly.",
+    "price": 110000,
+    "image": "https://i.ibb.co/Kz7ZmWL8/iphone.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Laptop",
+    "description": "The new, improved laptop has all the features you want, like a sleek, lightweight design and a long-lasting battery.",
+    "price": 260000,
+    "image": "https://i.ibb.co/Qjj4xLKm/laptop.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Mouse",
+    "description": "The perfect mouse for your desk! Includes two buttons and a scroll wheel. Ergonomic design for left-handed and right-handed users.",
+    "price": 950,
+    "image": "https://i.ibb.co/Csby0sqv/mouse.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Mugs",
+    "description": "Mugs are a great way to get your morning coffee or tea. They are perfect for work, school, or any other time you need a drink.",
+    "price": 1250,
+    "image": "https://i.ibb.co/RTNJtYp3/mugs.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Shoe",
+    "description": "The Giamba shoes are handcrafted in Italy with soft leather. Available in a variety of colors and sizes.",
+    "price": 6500,
+    "image": "https://i.ibb.co/27bjgpJq/shoe.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Sunglass",
+    "description": "Julbo Explorist lightweight and durable sunglasses with polarized lenses that filter blue light and provide 100% UV protection.",
+    "price": 850,
+    "image": "https://i.ibb.co/xttHFXVj/sunglass.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Television",
+    "description": "Sony Bravia KDL-55W850C 4K Ultra HD TV with TRILUMINOS Display and X-tended Dynamic Range Pro for enhanced contrast and clarity.",
+    "price": 114950,
+    "image": "https://i.ibb.co/twwrkcVZ/tv.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Apple Watch",
+    "description": "The Apple Watch is great for tracking fitness, heart rate, steps, and activity. Water resistant and customizable with different bands and faces.",
+    "price": 33000,
+    "image": "https://i.ibb.co/TxXX9XgD/watch.jpg"
+  }
+]
